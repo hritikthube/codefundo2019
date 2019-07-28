@@ -1,1 +1,3 @@
 # codefundo2019
+ Basically my idea  is to bring the election related task more specifically the "casting of vote" online. Initially i would allocate a unique id for the each individually with a certain password.This process would take by data encrytion as there could be a chance for the hackers to  crack this out.Moreover abstracting blockchain in it would thus make it more robust.Not onlty this but also we can have a portal (app/desktop application)or both would be made in a upcoming phase .Hope to  also get some more doubts solved,presently working on to connect with mentors.Moreover ,agendas for the respective parties can also be displayed on the portal.Also thunking on how ML can help
+ 
